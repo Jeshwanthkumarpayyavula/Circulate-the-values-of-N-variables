@@ -34,7 +34,8 @@ b=eval(input())
 
 
 ## Output:
-![Alt text](/image-1.png)
+![image](https://github.com/Jeshwanthkumarpayyavula/Circulate-the-values-of-N-variables/assets/145742402/583846ce-e4e5-42e0-a87c-2a32140e060e)
+
 
 
 ## Result:
